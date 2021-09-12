@@ -1,8 +1,4 @@
-
-
-https://user-images.githubusercontent.com/42820866/132999829-e6042112-8fbb-495e-a5ce-04754c02a6ed.mp4
-
-# Guide-Pose
+## Guide-Pose
 In this era of efficiency and performance machines and systems tends to be better and faster.
 Everything is being automate and self-aware for making lives easy and better than before. One
 day we are working on computer vision and found a great idea of using computer vision latest
