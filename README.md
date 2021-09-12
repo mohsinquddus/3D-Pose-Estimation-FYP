@@ -10,12 +10,6 @@ of a camera relative to a given person and we done it by identifying, locating, 
 number of Key Point’s on a given person. This project is designed to tackle with the wrong angle
 exercise problem. Doing exercise in the wrong way not benefit the body at all, but it may cause
 a lot of injuries. And it may cause the player to permanent loss to its physical body part. 
-
-
-
-https://user-images.githubusercontent.com/42820866/132999687-dba77626-137d-468f-b0e0-25a8cf9f48a1.mp4
-
-
 An automated pose estimator system will be helpful for the workout users that they do not have to
 hire trainer. The application in their mobile helps the user to exercise anytime anywhere. The
 points that return from the model are used get angle of different joints and then the angles are
