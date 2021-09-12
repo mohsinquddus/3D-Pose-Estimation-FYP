@@ -12,4 +12,5 @@ cause injury or cranks in muscles or you may also lose your body part. So to avo
 problem we created an application that can tell user about the angle of specific exercise
 to the user. This application is a massive solution to address all the problems mentioned
 above.
+![frame1](https://user-images.githubusercontent.com/42820866/132999497-ae65335c-dedc-46a4-ae5d-0956176f8a0e.jpg)
 
